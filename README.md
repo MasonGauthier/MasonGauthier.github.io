@@ -1,2 +1,3 @@
 # MasonGauthier.github.io
-[Mason's Hello World Repo](https://github.com/MasonGauthier/hello-world)
+
+[Mason's Hello World](https://github.com/MasonGauthier/hello-world)
